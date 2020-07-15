@@ -49,7 +49,11 @@ factorial using function
     }
     var number = fact(4);
     console.log(number);*/
-/* factorial using while loop */
+
+
+/* factorial using while loop 
+
+
     var i = 1;
     var factorial = 1;
     while (i <= 10){
@@ -57,7 +61,7 @@ factorial using function
       //  console.log(i, factorial);
         i++;
     } 
-    console.log(factorial);
+    console.log(factorial);*/
 
 
 /* special case - practice
